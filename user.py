@@ -1,7 +1,9 @@
 
 '''
+
 @ author 
 Gianni M. Javier
+
 '''
 # Create a file with the User class, including the __init__ and make_deposit methods
 # Class/Bllueprint for Object/Instance of a Class

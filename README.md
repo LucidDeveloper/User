@@ -2,6 +2,7 @@
 * Coding Dojo Assignment: Object Oriented Programming in Python
 
 # Objectives:
+
 * Practice creating a class and making instances from it.
 * Practice accessing the methods and attributes of different instances.
 * If you've been following along, you're going to utilize the User class we've been discussing for this assignment.
